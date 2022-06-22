@@ -1,16 +1,18 @@
 # Hi, I'm Ahmed Rezk 👋
 
 <center>
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
+<img style="align:center src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
 </center>
 
-## I'm a Mobile Application Developper 
+## I am a Mobile Application Developer (Cross Platform as a Flutter)
+➮ I have a Bachelors in Computer Science from the University of Mansoura at Egypt
 
 - 🌱 I’m currently learning everything 😅
 - 💬 Ask me about Flutter, Android,mvc  🐍
 
 
 ## Connect with me
+<p align="center">
 <a href="https://twitter.com/AhmedRe75652038" target="_blank">
 <img alt="Ahmed Rezk  Twitter account" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" width="24px">
 </a>
@@ -27,13 +29,52 @@
 
 
 ## Languages and Tools
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android Logo" width="42px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Android Logo" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter Logo" width="42px">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="html Logo" width="42px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html-original.svg" alt="css  Logo" width="42px">
-
-
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java  Logo" width="42px">
+  
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+ ## 📊 My Github Stats
+
+<br/>
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ahmed Rezk 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedRezk1997&count_private=true&theme=react&hide=contribs,prs&show_icons=true" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ahmed Rezk 's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRezk199&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            </a>
+        </td>
+    </tr>
+</table>
+<br/>
+<br/>
+
+<a href="https://github.com/Alihassan20/github-readme-activity-graph"><img alt="Ahmed Rezk 's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AhmedRezk199&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
+
+ 
+
+         
+
+
+
+
