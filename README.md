@@ -1,7 +1,7 @@
 # Hi, I'm Ahmed Rezk 👋
 
 <center>
-<img style="align:center src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
+<img  src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
 </center>
 
 ## I am a Mobile Application Developer (Cross Platform as a Flutter)
@@ -58,23 +58,16 @@
             <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ahmed Rezk 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedRezk1997&count_private=true&theme=react&hide=contribs,prs&show_icons=true" />
             </a>
         </td>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ahmed Rezk 's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRezk199&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-            </a>
-        </td>
+       
     </tr>
 </table>
 <br/>
-<br/>
 
-<a href="https://github.com/Alihassan20/github-readme-activity-graph"><img alt="Ahmed Rezk 's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AhmedRezk199&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
+
+
 
  
 
          
-
-
 
 
