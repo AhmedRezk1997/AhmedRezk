@@ -22,7 +22,7 @@
 <a href="https://web.facebook.com/profile.php?id=100004650970930&_rdc=1&_rdr" target="_blank">
 <img alt="Ahmed Rezk Facebook account" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" width="24px">
 </a>
-<a href="https://www.linkedin.com/in/ahmed-mohamed-rezk-farag-823153229" target="_blank">
+<a href="[https://www.linkedin.com/in/ahmed-mohamed-rezk-farag-823153229](https://www.linkedin.com/in/ahmed-rezk-823153229/)" target="_blank">
 <img alt="Ahmed Rezk Linkdin account" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" width="24px">
 </a>
 
