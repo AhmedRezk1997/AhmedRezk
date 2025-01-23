@@ -5,7 +5,7 @@
 </center>
 
 ## I am a senior Mobile Application Developer (Cross Platform as a Flutter)
-➮ I have a Bachelors in Computer Science from the University of Mansoura at Egypt
+➮ I have a Bachelors in Computer Science from the University of Mansoura at Egypt since 2019 i have experience 6 years . 
 
 
 
@@ -42,19 +42,7 @@
 
 
 
- ## 📊 My Github Stats
 
-<br/>
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ahmed Rezk 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedRezk1997&count_private=true&theme=react&hide=contribs,prs&show_icons=true" />
-            </a>
-        </td>
-  </tr>
-    
-</table>
-<br/>
 
 
 
